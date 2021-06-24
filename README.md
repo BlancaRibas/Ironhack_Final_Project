@@ -16,7 +16,7 @@
 ### Process:space_invader::
 
 #### 1. Number detection
-In order to detect numbers of images I have used to models:
+In order to detect numbers of images I have used two models:
 
   🎈Convolutional neural network - CNN. In deep learning,is a class of deep neural network, most commonly applied to analyze visual imagery. I have used 135 csv ***(https://archive.ics.uci.edu/ml/datasets/Character+Font+Images)*** to train my model, which has been the Sequential model. ***(Sequential model is a linear stack of layers. You create a sequential model by calling the keras_model_sequential () function then a series of layer functions)***
   
