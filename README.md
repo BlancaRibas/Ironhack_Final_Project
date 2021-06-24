@@ -29,5 +29,7 @@ In order to detect numbers of images I have used two models:
 
 #### 3. Outcome 
   🕸️After navigating the data and choosing the best tool to process the images, which have been then converted. I have created a Streamlit app, where you can see 255 product concept. 
+  🌻Streamlit: http://192.168.97.50:8501/
+  
 
 
