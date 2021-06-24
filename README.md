@@ -25,7 +25,7 @@ In order to detect numbers of images I have used two models:
 #### 2. Currency converter
 As my main goal is to create a currency converter based on images I have used **google-currency** to do so. It can convert the currency of 153 codes.
   
-  *Disclaimer: google-currency package fetch the result from Google using web scrapping. Owner will not be responsible for any misuse of this package. This is solely for the purpose of learning.
+  ***Disclaimer: google-currency package fetch the result from Google using web scrapping. Owner will not be responsible for any misuse of this package. This is solely for the purpose of learning.***
 
 #### 3. Outcome 
  After navigating the data and choosing the best tool to process the images, which have been then converted. I have created a Streamlit app, where you can see 255 product concept. 
