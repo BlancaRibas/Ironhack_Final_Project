@@ -9,7 +9,7 @@
 
 ### 💡 Goal: 
 
-✈️When traveling I always have issues to convert currencies, thus my goal is to creat a currency converter based in image recognition. 
+✈️When traveling I always have issues to convert currencies, thus my goal is to creat a currency converter based on image recognition. 
 
 ✍️I am going to create a product concept of 255.
 
